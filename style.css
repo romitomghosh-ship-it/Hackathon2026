@@ -1,0 +1,9 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: linear-gradient(to bottom, green, #003400);
+  color: orange;
+  height: 100vh;
+  margin: 0;
+  display: grid;
+  place-items: center;
+}
